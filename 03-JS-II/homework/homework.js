@@ -205,7 +205,7 @@ function tieneTresDigitos(numero){
   if ( numero > 99 && numero < 1000 ) {
     return true
   }
-  return false
+  return false 
   
 }
 
@@ -223,7 +223,7 @@ function doWhile(numero) {
   while(i < 8);
   return a;
 
-  
+
 }
 
 
